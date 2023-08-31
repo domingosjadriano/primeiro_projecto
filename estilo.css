@@ -5,8 +5,8 @@
 }
 
 div.container{
-  width: 78%;
-  margin: 0 auto;
+  width: 75%;
+  margin: 10 auto;
 }
 .container h2{
   font-size: 30px;
@@ -18,8 +18,8 @@ div.container{
   color: green;
 }
 footer{
-  margin: 0 auto;
+  margin: 10 auto;
   background-color: #ccc;
-  padding: 10px;
-  border-top: 1px solid #ccc;
+  padding: 8px;
+  border-top: 2px solid #ccc;
 }
