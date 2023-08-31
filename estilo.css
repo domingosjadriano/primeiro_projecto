@@ -8,3 +8,8 @@ div.container{
   width: 78%;
   margin: 0 auto;
 }
+.container h2{
+  font-size: 30px;
+  color: gray;
+  font-weight: bold;
+}
