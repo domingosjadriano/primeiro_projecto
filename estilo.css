@@ -13,3 +13,7 @@ div.container{
   color: gray;
   font-weight: bold;
 }
+.container p{
+  font-size: 14px;
+  color: green;
+}
