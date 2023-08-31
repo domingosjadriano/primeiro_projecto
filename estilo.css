@@ -17,3 +17,7 @@ div.container{
   font-size: 14px;
   color: green;
 }
+footer{
+  margin: 0 auto;
+  background-color: #ccc;
+}
