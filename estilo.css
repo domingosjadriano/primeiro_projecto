@@ -20,4 +20,5 @@ div.container{
 footer{
   margin: 0 auto;
   background-color: #ccc;
+  padding: 10px;
 }
