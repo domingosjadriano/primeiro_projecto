@@ -21,4 +21,5 @@ footer{
   margin: 0 auto;
   background-color: #ccc;
   padding: 10px;
+  border-top: 1px solid #ccc;
 }
