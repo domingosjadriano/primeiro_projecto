@@ -17,6 +17,7 @@ container p{
   font-size: 12px;
   background-color: blue;
   margin: 10px auto;
+  border-radius: 10px;
 }
 
 footer{
