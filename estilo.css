@@ -13,10 +13,7 @@ div.container{
   color: gray;
   font-weight: bold;
 }
-.container p{
-  font-size: 14px;
-  color: green;
-}
+
 footer{
   margin: 10 auto;
   background-color: #ccc;
