@@ -1,5 +1,7 @@
 alert("novo arquivo js");
 
-const pais = "Angola";
-
-const novoObjt = {};
+const novoObjt = {
+  nome: 'Joao',
+  idade: 12,
+  sexo: 'masculino'
+};
