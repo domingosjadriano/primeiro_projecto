@@ -14,7 +14,8 @@ div.container{
   font-weight: bold;
 }
 container p{
-  color: skyblue;
+  width: 200px;
+  font-size: 16px;
 }
 
 footer{
