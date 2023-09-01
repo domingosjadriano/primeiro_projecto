@@ -13,6 +13,9 @@ div.container{
   color: gray;
   font-weight: bold;
 }
+container p{
+  color: skyblue;
+}
 
 footer{
   margin: 10 auto;
