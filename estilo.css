@@ -16,6 +16,7 @@ div.container{
 container p{
   font-size: 12px;
   background-color: blue;
+  border-radius: 5px;
 }
 
 footer{
