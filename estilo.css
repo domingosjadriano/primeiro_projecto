@@ -16,12 +16,8 @@ div.container{
 container p{
   font-size: 12px;
   background-color: blue;
-<<<<<<< HEAD
   margin: 10px auto;
   border-radius: 10px;
-=======
-  border-radius: 5px;
->>>>>>> 0f7be1de8de0db8cebd2ac897a8b7d0fd7ea2f02
 }
 
 footer{
