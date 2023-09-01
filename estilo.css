@@ -15,6 +15,7 @@ div.container{
 }
 container p{
   background-color: blue;
+  margin: 10px auto;
 }
 
 footer{
