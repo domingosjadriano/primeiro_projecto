@@ -19,6 +19,9 @@ container p{
   margin: 10px auto;
   border-radius: 10px;
 }
+formulario{
+  width: 80%;
+}
 
 footer{
   margin: 10 auto;
